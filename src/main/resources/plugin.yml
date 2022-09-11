@@ -1,0 +1,7 @@
+name: PaperJDA
+version: '${project.version}'
+main: com.github.googool.paperjda.Paperjda
+api-version: 1.19
+load: STARTUP
+authors: [ ALY ]
+description: Java application.
