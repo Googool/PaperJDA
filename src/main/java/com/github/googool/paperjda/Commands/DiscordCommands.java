@@ -14,7 +14,7 @@ public class DiscordCommands extends ListenerAdapter {
 
             event.deferReply().queue();
 
-            event.getHook().sendMessage(User + "farted really hard").setEphemeral(true).queue();
+            event.getHook().sendMessage(User + " farted really hard").setEphemeral(true).queue();
         }
     }
 }
