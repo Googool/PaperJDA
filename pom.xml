@@ -39,7 +39,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>C:\Users\Askly\Desktop\Experimental\plugins</outputDirectory>
+                            <outputDirectory>YourOutputDirectoryHere</outputDirectory>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
                         </configuration>
                     </execution>
