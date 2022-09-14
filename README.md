@@ -4,7 +4,7 @@
 <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Googool/PaperJDA?include_prereleases&style=flat-square">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Googool/PaperJDA?style=flat-square">
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Googool/PaperJDA/total?style=flat-square">
-<img alt="GitHub" src="https://img.shields.io/github/license/Googool/PaperJDA?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/Googool/PaperJDA">
 <img alt="Discord" src="https://img.shields.io/discord/1015360569399844946?style=flat-square">
 </p>
 
