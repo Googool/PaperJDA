@@ -9,3 +9,14 @@
 </p>
 
 PaperJDA utilizes the Java Discord API (JDA) and the Paper API to run a Discord application inside of a plugin.
+
+## To-do list
+Lightweight.
+
+Create a command and event handler for JDA.
+
+Create a PaperListener to listen for server messagees.
+
+Connect the bot to the master/release (PaperJDA and PaperMC) on GitHub for the /version command.
+
+Create more commands and expand the bots functionality.
