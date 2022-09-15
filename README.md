@@ -21,7 +21,7 @@ PaperJDA uses Maven to handle dependencies & building.
 ### Compiling from source
 
 ```bash
-git clone
+git clone https://github.com/Googool/PaperJDA.git
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
