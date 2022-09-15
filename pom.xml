@@ -39,7 +39,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>YourOutputDirectoryHere</outputDirectory>
+                            <outputDirectory>C:\Users\Askly\Desktop\Experimental\plugins</outputDirectory>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
                         </configuration>
                     </execution>
@@ -75,7 +75,7 @@
         <dependency>
             <groupId>net.dv8tion</groupId>
             <artifactId>JDA</artifactId>
-            <version>5.0.0-alpha.18</version>
+            <version>5.0.0-alpha.19</version>
         </dependency>
     </dependencies>
 </project>
