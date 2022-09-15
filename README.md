@@ -22,18 +22,7 @@ PaperJDA uses Maven to handle dependencies & building.
 
 ```bash
 git clone https://github.com/Googool/PaperJDA.git
+cd PaperJDA/
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
-
-
-## To-do list
-Lightweight.
-
-Create a command and event handler for JDA.
-
-Create a PaperListener to listen for server messagees.
-
-Connect the bot to the master/release (PaperJDA and PaperMC) on GitHub for the /version command.
-
-Create more commands and expand the bots functionality.
