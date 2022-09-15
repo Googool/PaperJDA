@@ -24,7 +24,7 @@ PaperJDA uses Maven to handle dependencies & building.
 git clone
 ```
 
-You can find the output jars in the loader/build/libs or build/libs directories.
+You can find the output jars in the `loader/build/libs` or `build/libs` directories.
 
 
 ## To-do list
