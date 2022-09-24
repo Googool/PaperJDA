@@ -26,3 +26,5 @@ W.I.P
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
+
+If you want to contribute to the project feel free to fork and open a pull request.
