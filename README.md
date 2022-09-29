@@ -20,3 +20,7 @@ PaperJDA utilizes the Java Discord API (JDA) and the Paper API to run a Discord 
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
+
+## Liscense
+
+Distributed under the MIT License. See [LICENSE](https://www.github.com/Googool/PaperJDA/LISCENSE) for more information.
