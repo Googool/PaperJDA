@@ -20,7 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - General file structure of the repository
 - Changed to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [1.0.0] *Thuesday, September 29th 2022*
+## [1.0.0] - *Thuesday, September 29th 2022*
 
 *Note: First initial release of the project.*
 
