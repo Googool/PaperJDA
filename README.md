@@ -11,20 +11,12 @@
 PaperJDA utilizes the Java Discord API (JDA) and the Paper API to run a Discord application inside of a plugin.
 
 ## Building
-PaperJDA uses Maven to handle dependencies & building.
 
 ### Requirements
-
-- Java ? JDK or newer
-- Git
 
 ### Compiling from source
 
 ```bash
-git clone https://github.com/Googool/PaperJDA.git
-W.I.P
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
-
-If you want to contribute to the project feel free to fork and open a pull request.
