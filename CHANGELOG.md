@@ -2,12 +2,25 @@
 All notable changes to this repository will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this repository adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0-alpha.1] - [Unreleased]
-*Released: September 29th 2022*
+## [Unreleased]
+
+*Release: Unknown*
+
 ### Added
-- CommandListener/Manager for Discord commands.
+- Added a `CommandManager` to manage Discord commands.
+- Added Code of conduct for contributions
+- Added [CHANGELOG.md](https://github.com/Googool/PaperJDA/CHANGELOG.md)
 
-### Changed
-- General file structure of the repository:
+### Removed
+- Removed `/fart` as a command.
+
+## [1.0.0]
+
+*Release: Thuesday, September 29th 2022*
+
+### Added
+- Everything.
+
+
