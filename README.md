@@ -23,4 +23,4 @@ You can find the output jars in the `loader/build/libs` or `build/libs` director
 
 ## Liscense
 
-Distributed under the MIT License. See [LICENSE](https://www.github.com/Googool/PaperJDA/LISCENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Googool/PaperJDA/blob/master/LICENSE) for more information.
