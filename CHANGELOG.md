@@ -6,19 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-*Release: Unknown*
+*Note: Most of the things below are already added, but I need some time to implement some of the other changes.*
 
 ### Added
-- Added a `CommandManager` to manage Discord commands.
+- Added a `CommandManager` to manage Discord commands
 - Added Code of conduct for contributions
 - Added [CHANGELOG.md](https://github.com/Googool/PaperJDA/CHANGELOG.md)
 
 ### Removed
-- Removed `/fart` as a command.
+- Removed `/fart` as a command
 
-## [1.0.0]
+### Changed
+- General file structure of the repository
+- Changed to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-*Release: Thuesday, September 29th 2022*
+## [1.0.0] *Thuesday, September 29th 2022*
+
+*Note: First initial release of the project.*
 
 ### Added
 - Everything.
