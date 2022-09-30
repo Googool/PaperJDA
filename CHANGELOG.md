@@ -6,14 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-*Note: A few comments has been added in order to help me with overview.*
+*Note: Troubles with comitting from IntelliJ IDEA*
 
-### Added
-- Added comments in `PaperJDA` and `CommandManager`
+### Fixed
+- Fixed commit issue.
 
 ## [1.1.0] - *Friday, September 30th 2022*
 
-*Note: Most of the things below are already added, but I need some time to implement some of the other changes.*
+*Note: Creating commands is still done the same way as in the previous version. This might change in a future version.*
 
 ### Added
 - Added a `CommandManager` to manage Discord commands
