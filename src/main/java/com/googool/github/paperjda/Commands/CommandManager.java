@@ -11,8 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Add new EventListeners inside the CommandManager to prevent clocking up the Main.
- * onReady runs when the application is ready.
+ * Add new EventListeners inside the CommandManager to prevent clocking up the PaperJD.
  */
 
 public class CommandManager extends ListenerAdapter {
