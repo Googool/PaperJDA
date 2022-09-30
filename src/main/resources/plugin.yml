@@ -1,0 +1,6 @@
+name: PaperJDA
+version: '${project.version}'
+main: com.googool.github.paperjda.PaperJDA
+api-version: 1.19
+load: STARTUP
+authors: [ Googool ]
