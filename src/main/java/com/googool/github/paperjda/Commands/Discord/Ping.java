@@ -11,10 +11,10 @@ public class Ping extends ListenerAdapter {
 
         if (event.getName().equals("ping")) {
             long time = System.currentTimeMillis();
-            event.reply("⌛ Calculating...").setEphemeral(true) // Reply or acknowledge
+            event.reply("⌛ Calculating...").setEphemeral(true) // Reply or acknowledge.
                     .flatMap(v ->
-                            event.getHook().editOriginalFormat("🏓 %d ms", System.currentTimeMillis() - time) // Edit original
-                    ).queue(); // Queue both reply and edit
+                            event.getHook().editOriginalFormat("🏓 %d ms", System.currentTimeMillis() - time) // Edit original.
+                    ).queue(); // Queue both reply and edit.
         }
     }
 }
