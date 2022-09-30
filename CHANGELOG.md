@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added [CHANGELOG.md](https://github.com/Googool/PaperJDA/CHANGELOG.md)
 
 ### Removed
+- Removed the `DiscordListener`
 - Removed `/fart` as a command
 
 ### Changed
