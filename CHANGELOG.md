@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-*Note: Cleaning update.*
+*Note: A few comments has been added in order to help me with overview.*
+
+### Added
+- Added comments in `PaperJDA` and `CommandManager`
 
 ## [1.1.0] - *Friday, September 30th 2022*
 
