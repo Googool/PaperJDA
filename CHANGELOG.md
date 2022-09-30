@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Added a `CommandManager` to manage Discord commands
+- Added `/ping` as a command
 - Added Code of conduct for contributions
 - Added [CHANGELOG.md](https://github.com/Googool/PaperJDA/CHANGELOG.md)
 
