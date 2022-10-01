@@ -6,7 +6,7 @@
 
     <groupId>com.github.googool</groupId>
     <artifactId>paperjda</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <version>1.2.0</version>
     <packaging>jar</packaging>
 
     <name>PaperJDA</name>

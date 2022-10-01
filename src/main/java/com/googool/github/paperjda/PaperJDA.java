@@ -1,6 +1,7 @@
 package com.googool.github.paperjda;
 
 import com.googool.github.paperjda.Commands.CommandManager;
+import com.googool.github.paperjda.Events.Presence;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -20,7 +21,10 @@ public class PaperJDA extends JavaPlugin {
 
         try {
             this.jda = JDABuilder.createDefault(DISCORD_TOKEN)
-                    .addEventListeners(new CommandManager()) // Collection of commands.
+                    .addEventListeners(
+                            new CommandManager(), // Collection of commands.
+                            new Presence() // Application presence.
+                    )
                     .build().awaitReady();
 
         } catch (Exception exception) {
