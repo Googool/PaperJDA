@@ -1,7 +1,7 @@
 package com.googool.github.paperjda.Commands;
 
 import com.googool.github.paperjda.Commands.Discord.Ping;
-import net.dv8tion.jda.api.events.ReadyEvent;
+import net.dv8tion.jda.api.events.session.ReadyEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.interactions.commands.build.CommandData;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;

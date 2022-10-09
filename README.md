@@ -8,19 +8,20 @@
 <img alt="Discord" src="https://img.shields.io/discord/1015360569399844946?style=flat-square">
 </p>
 
-PaperJDA utilizes the Java Discord API (JDA) and the Paper API to run a Discord application inside of a plugin.
-
 ## Building
 
-### Requirements
+> See [pom.xml](https://github.com/Googool/PaperJDA/blob/master/pom.xml)
+
 
 ### Compiling from source
 
 ```bash
+$ git clone https://github.com/Googool/PaperJDA.git <Custom directory>
+$ cd <Custom directory>
 ```
 
 You can find the output jars in the `loader/build/libs` or `build/libs` directories.
 
-## Liscense
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Googool/PaperJDA/blob/master/LICENSE) for more information.
+## User Docs
+No real documentation has been prepared.
